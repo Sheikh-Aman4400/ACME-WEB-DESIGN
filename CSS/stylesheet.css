@@ -140,9 +140,9 @@ article#main-frame{
     width: 96%;
     background: rgb(229, 229, 229);
     padding: 20px;
-    margin-top: 30px;
+   
     border: black 1px solid;
-    margin-bottom: 30px;
+
 }
 
 aside#sidebar{
@@ -156,11 +156,19 @@ aside#sidebar{
 /* Services Styles */
 
 ul#services li{
-    margin-top: 20px;
+   
     list-style: none;
     padding: 20px;
     border: #6FE6FC;
     background: rgb(229, 229, 229);
+}
+
+.coming{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+    color: #0E2954;
+    padding-bottom: 550px;
 }
 
 
@@ -173,4 +181,5 @@ footer{
     color: white;
     background-color: #0E2954;
     text-align: center;
+    
 }
