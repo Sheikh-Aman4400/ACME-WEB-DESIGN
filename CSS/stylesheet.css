@@ -132,6 +132,19 @@ header a:hover{
     width: 90px;
 }
 
+/* About Styles */
+
+article#main-frame{
+    float: center;
+    width: 70%;
+}
+
+aside#sidebar{
+    float: center;
+    width: 70%;
+   
+}
+
 /* Footer Styles */
 
 footer{
