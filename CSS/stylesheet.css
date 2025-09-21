@@ -46,6 +46,7 @@ header li{
 
 header #branding{
     float: left;
+    padding-left: 10px;
 }
 
 header #branding h1{
@@ -136,14 +137,33 @@ header a:hover{
 
 article#main-frame{
     float: center;
-    width: 70%;
+    width: 96%;
+    background: rgb(229, 229, 229);
+    padding: 20px;
+    margin-top: 30px;
+    border: black 1px solid;
+    margin-bottom: 30px;
 }
 
 aside#sidebar{
     float: center;
-    width: 70%;
-   
+    width: 96%;
+    background: rgb(229, 229, 229);
+    padding: 20px;
+    border: black 1px solid;
 }
+
+/* Services Styles */
+
+ul#services li{
+    margin-top: 20px;
+    list-style: none;
+    padding: 20px;
+    border: #6FE6FC;
+    background: rgb(229, 229, 229);
+}
+
+
 
 /* Footer Styles */
 
